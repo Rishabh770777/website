@@ -1,20 +1,37 @@
-/**
-* Template Name: iPortfolio - v3.7.0
-* Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
 }
 
 
+.btn-my{
+  background: #000000;
+  background-image: -webkit-linear-gradient(top, #000000, #39454d);
+  background-image: -moz-linear-gradient(top, #000000, #39454d);
+  background-image: -ms-linear-gradient(top, #000000, #39454d);
+  background-image: -o-linear-gradient(top, #000000, #39454d);
+  background-image: linear-gradient(to bottom, #000000, #39454d);
+  -webkit-border-radius: 14;
+  -moz-border-radius: 14;
+  border-radius: 14px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 19px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
 
+
+.btn-my:hover {
+  background: #6d7073;
+  background-image: -webkit-linear-gradient(top, #6d7073, #6e6a6e);
+  background-image: -moz-linear-gradient(top, #6d7073, #6e6a6e);
+  background-image: -ms-linear-gradient(top, #6d7073, #6e6a6e);
+  background-image: -o-linear-gradient(top, #6d7073, #6e6a6e);
+  background-image: linear-gradient(to bottom, #6d7073, #6e6a6e);
+  text-decoration: none;
+}
 
 
 a {
